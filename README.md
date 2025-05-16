@@ -2,11 +2,11 @@
 <h3 align="center">Highly regarded self-starter and passionate technology enthusiast seeking for opportunities to build innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🌱 I’m a **Backend Developer**
+- 🌱 I’m a **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lovedayikegbulam](https://github.com/lovedayikegbulam)
 
-- 💬 Ask me about **Nodejs and Python**
+- 💬 Ask me about **Nodejs and Python** **React
 
 - 📫 How to reach me **lovedayikegbulam515@gmail.com**
 
