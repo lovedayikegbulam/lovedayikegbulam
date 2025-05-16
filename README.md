@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lovedayikegbulam](https://github.com/lovedayikegbulam)
 
-- 💬 Ask me about **Nodejs and Python** React
+- 💬 Ask me about **Nodejs Python and React**
 
 - 📫 How to reach me **lovedayikegbulam515@gmail.com**
 
